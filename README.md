@@ -6,10 +6,9 @@
 
   
 -  How to reach me: Feel free to connect with me through [Email](mailto:liaskas.geo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/geoliaskas04/).
--  Pronouns: He/Him/His
--  I completed a Full Stack Development Bootcamp at the Athens University of Economics and Business, where I developed a Netflix-like web application using React, MongoDB, and SQL as my final assignment.
--  I also study Computer Science at the Hellenic Open University.
-
+-  Hi, I’m George!
+-  I love music and running, and I’m passionate about web development. I completed a Full Stack Development Bootcamp at the Athens University of Economics and Business, where I built a Netflix-style web app using React, MongoDB, and SQL.
+-  Currently, I’m diving deeper into Computer Science at the Hellenic Open University. Always open to connecting and collaborating!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaskasGeo&show_icons=true&theme=synthwave)
