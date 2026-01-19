@@ -7,6 +7,9 @@
 -  Pronouns: He/Him/His
 -  I completed a Full Stack Development Bootcamp at the Athens University of Economics and Business, where I developed a Netflix-like web application using React, MongoDB, and SQL as my final assignment.
 -  I also study Computer Science at the Hellenic Open University.
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaskasGeo&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaskasGeo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
