@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![giphy](https://github.com/liaskasGeo/liaskasGeo/assets/149105897/2a9552c3-9ec2-4ff1-a49e-83f35f42331c)![cat-guitar](https://github.com/liaskasGeo/liaskasGeo/assets/149105897/199ec9c9-96b9-4390-816d-bfe410ff046f)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaskasGeo&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaskasGeo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 -  How to reach me: Feel free to connect with me through [Email](mailto:liaskas.geo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/geoliaskas04/).
