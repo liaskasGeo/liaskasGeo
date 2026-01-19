@@ -7,12 +7,11 @@
 -  How to reach me: Feel free to connect with me through [Email](mailto:liaskas.geo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/geoliaskas04/).
 -  Pronouns: He/Him/His
 -  Fun fact: I enjoy exploring new coding challenges, occasionally taking breaks with a good cup of coffee and playing music.
--  For my final bootcamp assignment, I developed a Netflix-like web application using React, MongoDB, and SQL, which was an exciting and rewarding challenge.
+-  I completed a Full Stack Development Bootcamp at the Athens University of Economics and Business, where I developed a Netflix-like web application using React, MongoDB, and SQL as my final assignment.
+-  I also study Computer Science at the Hellenic Open University.
+
+
 
 - Netflix-Like application:
-
-
-
-
 
 ![react project](https://github.com/user-attachments/assets/b645731b-00c6-4304-8801-3e0b2ac10d99)
