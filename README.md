@@ -6,7 +6,6 @@
 
 -  How to reach me: Feel free to connect with me through [Email](mailto:liaskas.geo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/geoliaskas04/).
 -  Pronouns: He/Him/His
--  Fun fact: I enjoy exploring new coding challenges, occasionally taking breaks with a good cup of coffee and playing music.
 -  I completed a Full Stack Development Bootcamp at the Athens University of Economics and Business, where I developed a Netflix-like web application using React, MongoDB, and SQL as my final assignment.
 -  I also study Computer Science at the Hellenic Open University.
 
