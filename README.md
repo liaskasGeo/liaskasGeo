@@ -3,9 +3,9 @@
 |--|--|
 |ɪ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ʙᴏᴏᴛᴄᴀᴍᴘ ᴀᴛ ᴛʜᴇ ᴀᴛʜᴇɴꜱ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴇᴄᴏɴᴏᴍɪᴄꜱ ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ, ᴡʜᴇʀᴇ ɪ ʙᴜɪʟᴛ ᴀ ɴᴇᴛꜰʟɪx-ꜱᴛʏʟᴇ ᴡᴇʙ ᴀᴘᴘ ᴜꜱɪɴɢ ʀᴇᴀᴄᴛ, ᴍᴏɴɢᴏᴅʙ, ᴀɴᴅ ꜱQʟ. |​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​, ​🇮​’​🇲​ ​🇩​​🇮​​🇻​​🇮​​🇳​​🇬​ ​🇩​​🇪​​🇪​​🇵​​🇪​​🇷​ ​🇮​​🇳​​🇹​​🇴​ ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇦​​🇹​ ​🇹​​🇭​​🇪​ ​🇭​​🇪​​🇱​​🇱​​🇪​​🇳​​🇮​​🇨​ ​🇴​​🇵​​🇪​​🇳​ ​🇺​​🇳​​🇮​​🇻​​🇪​​🇷​​🇸​​🇮​​🇹​​🇾​. ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​​🇮​​🇳​​🇬​. |
 
-<h3 | Feel free to connect with me through :  | [Email](mailto:liaskas.geo@gmail.com) |
+ | Feel free to connect with me through :  | [Email](mailto:liaskas.geo@gmail.com) |
 |--|--|
-|  |  [LinkedIn](https://www.linkedin.com/in/geoliaskas04/)| </h3>
+|  |  [LinkedIn](https://www.linkedin.com/in/geoliaskas04/)| 
 
 <h3 align="center">LinkedIn:</h3>
 <p align="center">
