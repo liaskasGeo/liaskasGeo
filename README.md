@@ -15,7 +15,7 @@
 
 
 
-    -   Netflix-Like application:
+<h3 align="center">Netflix-Like App</h3>
 
 
 ![react project](https://github.com/user-attachments/assets/b645731b-00c6-4304-8801-3e0b2ac10d99)
