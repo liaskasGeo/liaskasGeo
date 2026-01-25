@@ -3,8 +3,7 @@
 |ɪ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ʙᴏᴏᴛᴄᴀᴍᴘ ᴀᴛ ᴛʜᴇ ᴀᴛʜᴇɴꜱ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴇᴄᴏɴᴏᴍɪᴄꜱ ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ, ᴡʜᴇʀᴇ ɪ ʙᴜɪʟᴛ ᴀ ɴᴇᴛꜰʟɪx-ꜱᴛʏʟᴇ ᴡᴇʙ ᴀᴘᴘ ᴜꜱɪɴɢ ʀᴇᴀᴄᴛ, ᴍᴏɴɢᴏᴅʙ, ᴀɴᴅ ꜱQʟ. |​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​, ​🇮​’​🇲​ ​🇩​​🇮​​🇻​​🇮​​🇳​​🇬​ ​🇩​​🇪​​🇪​​🇵​​🇪​​🇷​ ​🇮​​🇳​​🇹​​🇴​ ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇦​​🇹​ ​🇹​​🇭​​🇪​ ​🇭​​🇪​​🇱​​🇱​​🇪​​🇳​​🇮​​🇨​ ​🇴​​🇵​​🇪​​🇳​ ​🇺​​🇳​​🇮​​🇻​​🇪​​🇷​​🇸​​🇮​​🇹​​🇾​. ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​​🇮​​🇳​​🇬​ |
 
 | How to reach me: Feel free to connect with me through [Email](mailto:liaskas.geo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/geoliaskas04/). |  |
-|--|--|
-|  |  |
+
 -  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/geoliaskas04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/geoliaskas04/" height="30" width="40" /></a>
