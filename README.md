@@ -20,7 +20,7 @@
 
 
 
--   Netflix-Like application:
+    -   Netflix-Like application:
 
 
 ![react project](https://github.com/user-attachments/assets/b645731b-00c6-4304-8801-3e0b2ac10d99)
