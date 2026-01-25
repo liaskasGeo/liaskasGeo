@@ -1,4 +1,5 @@
-| Hi, I’m George! |I love music and running, and I’m passionate about Coding  |
+| <div><span style="color: #ff0000">H</span><span style="color: #ff2a00">i</span><span style="color: #ff5500">,</span><span style="color: #ff7f00"> </span><span style="color: #ffaa00">I</span><span style="color: #ffd400">’</span><span style="color: #ffff00">m</span><span style="color: #80ff00"> </span><span style="color: #00ff00">G</span><span style="color: #00ff55">e</span><span style="color: #00ffaa">o</span><span style="color: #00ffff">r</span><span style="color: #00aaff">g</span><span style="color: #0055ff">e</span><span style="color: #0000ff">!</span></div>
+ |I love music and running, and I’m passionate about Coding  |
 |--|--|
 |ɪ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ʙᴏᴏᴛᴄᴀᴍᴘ ᴀᴛ ᴛʜᴇ ᴀᴛʜᴇɴꜱ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴇᴄᴏɴᴏᴍɪᴄꜱ ᴀɴᴅ ʙᴜꜱɪɴᴇꜱꜱ, ᴡʜᴇʀᴇ ɪ ʙᴜɪʟᴛ ᴀ ɴᴇᴛꜰʟɪx-ꜱᴛʏʟᴇ ᴡᴇʙ ᴀᴘᴘ ᴜꜱɪɴɢ ʀᴇᴀᴄᴛ, ᴍᴏɴɢᴏᴅʙ, ᴀɴᴅ ꜱQʟ. |​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​, ​🇮​’​🇲​ ​🇩​​🇮​​🇻​​🇮​​🇳​​🇬​ ​🇩​​🇪​​🇪​​🇵​​🇪​​🇷​ ​🇮​​🇳​​🇹​​🇴​ ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇦​​🇹​ ​🇹​​🇭​​🇪​ ​🇭​​🇪​​🇱​​🇱​​🇪​​🇳​​🇮​​🇨​ ​🇴​​🇵​​🇪​​🇳​ ​🇺​​🇳​​🇮​​🇻​​🇪​​🇷​​🇸​​🇮​​🇹​​🇾​. ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​​🇮​​🇳​​🇬​. |
 
