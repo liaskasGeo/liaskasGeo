@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaskasGeo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Hi there 👋
 
 ![giphy](https://github.com/liaskasGeo/liaskasGeo/assets/149105897/2a9552c3-9ec2-4ff1-a49e-83f35f42331c)![cat-guitar](https://github.com/liaskasGeo/liaskasGeo/assets/149105897/199ec9c9-96b9-4390-816d-bfe410ff046f)
@@ -14,7 +11,7 @@
 -  Currently, I’m diving deeper into Computer Science at the Hellenic Open University. Always open to connecting and collaborating!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaskasGeo&include_all_commits=true&theme=aura)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaskasGeo&layout=compact)
 
 
