@@ -1,3 +1,4 @@
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Enjoy+:D+:D+:D)](https://git.io/typing-svg)</h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Enjoy+:D+:D+:D)](https://git.io/typing-svg)
 | Hi, I’m George! |I love music and running, and I’m passionate about Coding  |
 |--|--|
