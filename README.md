@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://theprimeview.com/wp-content/uploads/2024/02/Mixed-languages.jpg" width="300" />
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Enjoy+:D+:D+:D)](https://git.io/typing-svg)
 | Hi, I’m George! |I love music and running, and I’m passionate about Coding  |
 |--|--|
