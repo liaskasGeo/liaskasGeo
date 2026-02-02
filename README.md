@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=1920&q=75" height = "200" width = 400/>
-</p>
-
 <img src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=1920&q=75" style="width:100%;" />
 
 
