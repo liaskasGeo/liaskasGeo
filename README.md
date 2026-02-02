@@ -1,4 +1,4 @@
-<img src="https://files.fm/u/e2v9xmugqs" style="width:100%;" />
+<img src="https://github.com/liaskasGeo/liaskasGeo/blob/main/1--1-.jpg?raw=true" style="width:100%;" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Enjoy+:D+:D+:D)](https://git.io/typing-svg)
