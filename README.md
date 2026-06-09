@@ -26,5 +26,6 @@
 
 <h3 align="center">Finance App Python</h3>
 
-<img width="892" height="1086" alt="image" src="https://github.com/user-attachments/assets/b05b589d-90f4-49e9-9ff3-80f83c989e02" />
+<img width="1743" height="1349" alt="gitpic" src="https://github.com/user-attachments/assets/9efc1ac6-3952-4eab-9e7b-aa963819eeb3" />
+
 
