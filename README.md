@@ -21,3 +21,9 @@
 
 
 ![react project](https://github.com/user-attachments/assets/b645731b-00c6-4304-8801-3e0b2ac10d99)
+
+
+
+<h3 align="center">Finance App Python</h3>
+
+<img width="1409" height="1128" alt="image" src="https://github.com/user-attachments/assets/42c2f55d-0f64-4d2f-9b91-394c44dbe6b0" />
