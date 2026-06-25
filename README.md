@@ -17,14 +17,14 @@
 
 
 
-<h3 align="center">Netflix-Like App</h3>
+<h3 align="center">Netflix-Like App(Final Project)[Athens University of Economics and Business (AUEB)]</h3>
 
 
 ![react project](https://github.com/user-attachments/assets/b645731b-00c6-4304-8801-3e0b2ac10d99)
 
 
 
-<h3 align="center">Finance App Python(Final Project University)</h3>
+<h3 align="center">Finance App Python(Final Project[Hellenic Open University])</h3>
 
 <img width="921" height="1207" alt="gitpic" src="https://github.com/user-attachments/assets/0969eecd-81b2-4c0f-832f-9d63edeba09a" />
 
