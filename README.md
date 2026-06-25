@@ -24,7 +24,7 @@
 
 
 
-<h3 align="center">Finance App Python</h3>
+<h3 align="center">Finance App Python(Final Project University)</h3>
 
 <img width="921" height="1207" alt="gitpic" src="https://github.com/user-attachments/assets/0969eecd-81b2-4c0f-832f-9d63edeba09a" />
 
